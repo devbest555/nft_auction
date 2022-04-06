@@ -1,0 +1,10 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+deployments
+coverage
+coverage.json
+secrets.js
+.DS_Store
